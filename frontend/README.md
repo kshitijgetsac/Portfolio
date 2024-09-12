@@ -1,8 +1,7 @@
-# React + Vite
+# My Portfolio
+This is a first iteration of my portfolio and this is made using NodeJs and React
+# Steps to Run
+1)Clone the directory using the clone link 
+2)Go to backend folder and run nodemon index.js(use nodemon if you want your backend to start again after crashes happen) else use node Index.js
+3)Go to frontend folder and run npm run dev and voila the website should be up and running and make sure that the port the website uses is not in use 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
